@@ -8,7 +8,11 @@ AWS
 
 
 2. S3
-
-
+- bucket
+- public
+- non-public
+IAM
+- s3 configuration aws-sdk accesskey
+- 
 
 3. RDS
